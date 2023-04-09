@@ -1,2 +1,2 @@
-# autotesting-java-advanced-diploma
+# Атовматизированные тесты для интернет-магазина http://pizzeria.skillbox.cc/
 
