@@ -1,0 +1,9 @@
+.DS_Store
+../.DS_Store
+.idea/workspace.xml
+/target/
+/.idea/
+/lib
+/src/main/
+/src/main/java/Main.java
+/src/test/resources/screens/
